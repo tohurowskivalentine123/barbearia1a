@@ -23,12 +23,24 @@ text-align: center
 }
 em strong [
   font-style:italic
-  
+}
 .beneficios {
   background: ; #ffffff
   padding: 20px;
 #missao{
 font-size: 20px
 }
-    color:red
+    color:rgb(255, 0, 191)
+h2 {
+  text-align: center;
 }
+ul{
+  display:inline-block;
+  vertical-align: top;
+  width:20%
+  margin: right 15%;
+}
+.imagembeneficios{
+   width:50%
+}
+  
