@@ -22,12 +22,12 @@ text-align: center
   text-align:center;
 }
 em strong [
-  font-style:italic
+  color: #ff0000;
 }
-.beneficios {
+.itens{
   background: ; #ffffff
   padding: 20px;
-#missao{
+
 font-size: 20px
 }
     color:rgb(255, 0, 191)
